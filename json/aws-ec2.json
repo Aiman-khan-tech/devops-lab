@@ -1,0 +1,11 @@
+JSON
+
+{
+  "InstanceType": "t2.micro",
+  "ImageId": "ami-123456",
+  "KeyName": "devops-key",
+  "SecurityGroupIds": [
+    "sg-12345"
+  ],
+  "SubnetId": "subnet-67890"
+}
