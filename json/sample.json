@@ -1,0 +1,19 @@
+JSON
+
+{
+  "app": {
+    "name": "devops-foundation-lab",
+    "version": "1.0",
+    "environment": "dev"
+  },
+  "server": {
+    "host": "localhost",
+    "port": 8080
+  },
+  "database": {
+    "name": "devopsdb",
+    "host": "localhost",
+    "port": 3306,
+    "username": "admin"
+  }
+}
