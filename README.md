@@ -4,7 +4,7 @@ DevOps fundamentals project covering Linux, Git, YAML and basic Automation.
 # DevOps Foundation Lab
 This repository consists of my hands-on practice and foundational concepts for becoming a DevOps Engineer.
 
-# Topice Covered:
+# Topics Covered:
 - Linux
 - Git & GitHub Workflow
 - YAML Configuration
